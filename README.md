@@ -32,8 +32,18 @@ I love **breaking down complex problems**, building **scalable applications**, a
 Check out my **personal portfolio, projects, and blog**:  
 🌐 **[Dev by Yael](https://dev-by-yael.web.app/)**  
 
-👩‍💻 **Let's Connect!**  
-💻 Follow my GitHub | ✨ Subscribe to my YouTube  
+## 📫 Connect with Me  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/yulifrank)  
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@YaelFrankDev)  
+
+---
+
+## 📊 GitHub Stats  
+![Yael's GitHub stats](https://github-readme-stats.vercel.app/api?username=yulifrank&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yulifrank&layout=compact&theme=radical)  
+
+---
+
 
 ---
 
