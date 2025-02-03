@@ -29,9 +29,15 @@ I love **breaking down complex problems**, building **scalable applications**, a
 
 ---
 
-## 🌍 Visit My Website  
-Check out my **personal portfolio, projects, and blog**:  
-🌐 **[Dev by Yael](https://dev-by-yael.web.app/)**  
+## 🌍 My Learning Platform  
+I created **[Dev by Yael](https://dev-by-yael.web.app/)** as a place to **learn, explore, and grow** in the world of software development.  
+This platform includes:  
+✅ **Hands-on coding tutorials**  
+✅ **Project-based learning**  
+✅ **Algorithm explanations**  
+✅ **My personal blog & insights**  
+
+🌐 **[Check it out here!](https://dev-by-yael.web.app/)**  
 
 ## 📫 Connect with Me  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/yulifrank)  
