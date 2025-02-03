@@ -1,3 +1,4 @@
+## 📫 Connect with Me  
 # 👩‍💻 Yael Frank | Software Developer  
 
 ## 🚀 Welcome to My Dev Space  
@@ -44,7 +45,5 @@ Check out my **personal portfolio, projects, and blog**:
 
 ---
 
-
----
-
 🚀 **Stay Curious. Keep Coding. Inspire Others.** 💡  
+[**Visit my website here!**](https://dev-by-yael.web.app/)  
