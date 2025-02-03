@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👩‍💻 Yael Frank | Software Developer  
 
-<!--
-**yulifrank/yulifrank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Welcome to My Dev Space  
 
-Here are some ideas to get you started:
+Hi there! I'm **Yael Frank**, a passionate **Software Developer** specializing in **backend, frontend, and algorithmic problem-solving**.  
+I love **breaking down complex problems**, building **scalable applications**, and sharing knowledge with the dev community!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 What I Do  
+- 🖥️ **Full-Stack Development**: .NET | Angular | React | Python  
+- 📊 **Algorithmic Thinking**: Solving coding challenges, optimizing performance  
+- 🧠 **AI & Deep Learning**: Exploring DeepFace, NLP, and more  
+- 🎥 **Tech Content Creator**: Teaching programming & dev concepts on [YouTube](https://www.youtube.com/@YaelFrankDev)  
+
+---
+
+## 📺 Latest YouTube Videos  
+🎥 I create **high-quality coding tutorials**, algorithm explanations, and full-stack development guides.  
+
+🔗 **[Check out my YouTube Channel!](https://www.youtube.com/@YaelFrankDev)**  
+
+🚀 **Recent Highlights:**  
+- 🔥 **Deep Learning with DeepFace in Python** 🧑‍💻  
+- 🧮 **Algorithmic Challenges: Longest Subarray with Sum Zero** 🚀  
+- 🔧 **Building APIs with .NET & Angular** 🏗️  
+- ⚡ **Optimizing Data Structures & Problem-Solving Techniques**  
+
+🌟 **Join me on my journey and level up your coding skills!**  
+
+---
+
+## 🌍 Visit My Website  
+Check out my **personal portfolio, projects, and blog**:  
+🌐 **[Yael's Dev Hub](https://dev-by-yael.web.app/)**  
+
+👩‍💻 **Let's Connect!**  
+💬 DM me on LinkedIn | 💻 Follow my GitHub | ✨ Subscribe to my YouTube  
+
+---
+
+🚀 **Stay Curious. Keep Coding. Inspire Others.** 💡  
