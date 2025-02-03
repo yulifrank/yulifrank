@@ -30,10 +30,10 @@ I love **breaking down complex problems**, building **scalable applications**, a
 
 ## 🌍 Visit My Website  
 Check out my **personal portfolio, projects, and blog**:  
-🌐 **[Yael's Dev Hub](https://dev-by-yael.web.app/)**  
+🌐 **[Dev by Yael](https://dev-by-yael.web.app/)**  
 
 👩‍💻 **Let's Connect!**  
-💬 DM me on LinkedIn | 💻 Follow my GitHub | ✨ Subscribe to my YouTube  
+💻 Follow my GitHub | ✨ Subscribe to my YouTube  
 
 ---
 
