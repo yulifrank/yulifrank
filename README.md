@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yael%20Frank&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,40:2d1b69,70:3730a3,100:06b6d4&height=200&section=header&text=Yael%20Frank&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+AI+that+actually+works+%F0%9F%A4%96;LangChain+%7C+LangGraph+%7C+Multi-Agent+Systems;Full-Stack+Dev+%7C+AI+Engineer+%7C+Content+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+AI+that+actually+works+%F0%9F%A4%96;LangChain+%7C+LangGraph+%7C+Multi-Agent+Systems;Full-Stack+Dev+%7C+AI+Engineer+%7C+Content+Creator" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yulifrank&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@YaelFrankDev)
-[![Website](https://img.shields.io/badge/Website-dev--by--yael-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-by-yael.web.app/)
+![Profile Views](https://komarev.com/ghpvc/?username=yulifrank&color=6d28d9&style=for-the-badge&label=PROFILE+VIEWS)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-ec4899?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@YaelFrankDev)
+[![Website](https://img.shields.io/badge/Website-dev--by--yael-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-by-yael.web.app/)
 
 </div>
 
@@ -65,13 +65,13 @@ class YaelFrank:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yulifrank&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yulifrank&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yulifrank&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0821&title_color=22d3ee&icon_color=ec4899&text_color=a78bfa"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yulifrank&layout=compact&langs_count=8&hide_border=true&bg_color=0d0821&title_color=22d3ee&text_color=a78bfa"/>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yulifrank&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yulifrank&hide_border=true&background=0d0821&ring=06b6d4&fire=ec4899&currStreakLabel=22d3ee&sideLabels=a78bfa&dates=6d7a9f&stroke=2d1b69&currStreakNum=ffffff&sideNums=ffffff" width="70%"/>
 </div>
 
 ---
@@ -79,7 +79,7 @@ class YaelFrank:
 ## 📈 Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yulifrank&theme=react-dark&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yulifrank&bg_color=0d0821&color=22d3ee&line=6d28d9&point=ec4899&area=true&area_color=2d1b69&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -95,7 +95,7 @@ class YaelFrank:
 | **Building APIs with .NET & Angular** | Full-stack production patterns |
 | **Data Structures & Optimization** | Performance-first problem solving |
 
-[![YouTube Channel](https://img.shields.io/badge/▶%20Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@YaelFrankDev)
+[![YouTube Channel](https://img.shields.io/badge/▶%20Watch%20on%20YouTube-ec4899?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@YaelFrankDev)
 
 </div>
 
@@ -117,14 +117,14 @@ class YaelFrank:
 
 ## 🌐 Find Me Online
 
-[![GitHub](https://img.shields.io/badge/GitHub-yulifrank-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yulifrank)
-[![YouTube](https://img.shields.io/badge/YouTube-YaelFrankDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@YaelFrankDev)
-[![Website](https://img.shields.io/badge/Platform-Dev%20by%20Yael-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-by-yael.web.app/)
-[![Helpe](https://img.shields.io/badge/Work-Helpe%20AI-00d4aa?style=for-the-badge&logo=openai&logoColor=white)](https://helpe.ai)
+[![GitHub](https://img.shields.io/badge/GitHub-yulifrank-2d1b69?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yulifrank)
+[![YouTube](https://img.shields.io/badge/YouTube-YaelFrankDev-ec4899?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@YaelFrankDev)
+[![Website](https://img.shields.io/badge/Platform-Dev%20by%20Yael-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-by-yael.web.app/)
+[![Helpe](https://img.shields.io/badge/Work-Helpe%20AI-6d28d9?style=for-the-badge&logo=openai&logoColor=white)](https://helpe.ai)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,40:3730a3,70:2d1b69,100:1a0533&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 *"Stay Curious. Keep Coding. Inspire Others."* 🚀
 
