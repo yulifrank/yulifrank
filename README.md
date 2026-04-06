@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,40:2d1b69,70:3730a3,100:06b6d4&height=200&section=header&text=Yael%20Frank&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,30:2d1b69,60:be185d,85:3730a3,100:06b6d4&height=200&section=header&text=Yael%20Frank&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+AI+that+actually+works+%F0%9F%A4%96;LangChain+%7C+LangGraph+%7C+Multi-Agent+Systems;Full-Stack+Dev+%7C+AI+Engineer+%7C+Content+Creator" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yulifrank&color=6d28d9&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=yulifrank&color=be185d&style=for-the-badge&label=PROFILE+VIEWS)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-ec4899?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@YaelFrankDev)
 [![Website](https://img.shields.io/badge/Website-dev--by--yael-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-by-yael.web.app/)
 
@@ -76,6 +76,27 @@ class YaelFrank:
 
 ---
 
+## 🏆 GitHub Achievements & Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yulifrank&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=7&title=MultiLanguage,Commits,PullRequest,Stars,Followers,Issues,Repositories" />
+
+</div>
+
+<div align="center">
+
+### 🎖️ Unlocked Badges
+
+| 🦈 Pull Shark | 🤠 Starstruck | 🎲 YOLO |
+|:---:|:---:|:---:|
+| Opened PRs that got merged | Got stars on a repo | Merged a PR without review |
+| **×2** | ✅ | ✅ |
+
+</div>
+
+---
+
 ## 📈 Activity Graph
 
 <div align="center">
@@ -120,11 +141,11 @@ class YaelFrank:
 [![GitHub](https://img.shields.io/badge/GitHub-yulifrank-2d1b69?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yulifrank)
 [![YouTube](https://img.shields.io/badge/YouTube-YaelFrankDev-ec4899?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@YaelFrankDev)
 [![Website](https://img.shields.io/badge/Platform-Dev%20by%20Yael-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-by-yael.web.app/)
-[![Helpe](https://img.shields.io/badge/Work-Helpe%20AI-6d28d9?style=for-the-badge&logo=openai&logoColor=white)](https://helpe.ai)
+[![Helpe](https://img.shields.io/badge/Work-Helpe%20AI-be185d?style=for-the-badge&logo=openai&logoColor=white)](https://helpe.ai)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,40:3730a3,70:2d1b69,100:1a0533&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,30:3730a3,65:be185d,100:1a0533&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 *"Stay Curious. Keep Coding. Inspire Others."* 🚀
 
