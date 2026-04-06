@@ -88,10 +88,30 @@ class YaelFrank:
 
 ### 🎖️ Unlocked Badges
 
-| 🦈 Pull Shark | 🤠 Starstruck | 🎲 YOLO |
-|:---:|:---:|:---:|
-| Opened PRs that got merged | Got stars on a repo | Merged a PR without review |
-| **×2** | ✅ | ✅ |
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" /><br/>
+      <b>Pull Shark</b> ×2<br/>
+      <sub>Merged PRs</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" /><br/>
+      <b>Starstruck</b><br/>
+      <sub>Got stars on a repo</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" /><br/>
+      <b>YOLO</b><br/>
+      <sub>Merged without review</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" /><br/>
+      <b>Quickdraw</b><br/>
+      <sub>Closed issue/PR fast</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
