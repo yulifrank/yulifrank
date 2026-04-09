@@ -65,8 +65,6 @@ class YaelFrank:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yulifrank&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0821&title_color=22d3ee&icon_color=ec4899&text_color=a78bfa"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yulifrank&layout=compact&langs_count=8&hide_border=true&bg_color=0d0821&title_color=22d3ee&text_color=a78bfa"/>
 
 </div>
 
