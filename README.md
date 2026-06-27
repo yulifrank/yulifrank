@@ -158,7 +158,7 @@ class YaelFrank:
 [![GitHub](https://img.shields.io/badge/GitHub-yulifrank-2d1b69?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yulifrank)
 [![YouTube](https://img.shields.io/badge/YouTube-YaelFrankDev-ec4899?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@YaelFrankDev)
 [![Website](https://img.shields.io/badge/Platform-Dev%20by%20Yael-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-by-yael.web.app/)
-[![Deloitte](https://img.shields.io/badge/Work-Helpe%20AI-be185d?style=for-the-badge&logo=openai&logoColor=white)](https://deloitte.com)
+[![Deloitte](https://img.shields.io/badge/Work-Deloitte%20AI-be185d?style=for-the-badge&logo=openai&logoColor=white)](https://deloitte.com)
 
 <br/>
 
