@@ -23,7 +23,7 @@
 ```python
 class YaelFrank:
     role       = "Software Developer & AI Engineer"
-    company    = "Helpe AI 🚀"
+    company    = "Deloitte "
     experience = "2+ years"
     
     stack = {
